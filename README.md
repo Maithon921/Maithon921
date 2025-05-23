@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maithonkambou Abonmai
 
-I'm a Full Stack Developer with a passion for building responsive, scalable, and user-focused web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). While I enjoy crafting intuitive frontend interfaces with React, I'm equally comfortable working on the backend to build robust APIs and manage data flow across the full stack.
+I'm an aspiring Full Stack Developer with a passion for building responsive, scalable, and user-focused web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). While I enjoy crafting intuitive frontend interfaces with React, I'm equally comfortable working on the backend to build robust APIs and manage data flow across the full stack.
 
 ## 🚀 Projects
 
